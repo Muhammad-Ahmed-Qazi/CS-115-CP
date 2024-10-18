@@ -13,7 +13,7 @@ for i in range(length):
     if string1[i] == string2[i]:
         common += string1[i] + ' '
     else:
-        uncommon += string1[i] + ' '
+        uncommon += string1[i] + ',' + string2[i] + ' '
 
 print("Common characters in the two inputs:\n>>>", common)
 print("Uncommon characters in the two inputs:\n>>>", uncommon)
