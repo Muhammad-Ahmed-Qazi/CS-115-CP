@@ -6,7 +6,7 @@ def recursive_sum(my_list):
 
 
 if __name__ == '__main__':
-    num = [1, 2, 3, 4, 5]
+    num = [1, 2, 3, 4]
     result = recursive_sum(num)
 
     print("Sum of list =", result)

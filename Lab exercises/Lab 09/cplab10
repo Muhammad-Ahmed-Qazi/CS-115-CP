@@ -1,0 +1,12 @@
+def countup_timer(i,n):
+    #base case
+    if(i==n):
+        return 0
+    else:
+      print(i)
+      countup_timer(i+1,n)
+#recursive function
+if __name__=='__main__':
+    n=int(input("enter number"))
+    i=0
+    counter_timer(i+1,n)
