@@ -1,0 +1,6 @@
+This is my fact file.
+Fact 1: Sky is not blue
+Fact 2: Moon has no light of itself
+Fact 3: Jupiter has 11 moons
+Fact 4: I don't know
+Fact 5: Sun is not orange, it's white!
